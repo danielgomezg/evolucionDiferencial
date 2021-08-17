@@ -1,0 +1,6 @@
+
+#name         switch          type    values                            [conditions (using R syntax)]
+fMutacion     "--fMutacion "   r       (0.5, 0.9)
+CR            "--CR "          r       (0.5, 0.9)
+tamanoP       "--tamanoP "     i       (60, 120)
+
