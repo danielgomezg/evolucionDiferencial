@@ -22,7 +22,7 @@ execDir = "."
 ## Directory where tuning instances are located, either absolute path or
 ## relative to current directory.
 #trainInstancesDir = "instances"
-trainInstancesFile = "instances/instacia.txt "
+trainInstancesFile = "instances/instacia.txt"
 
 
 ## Set testing data 
